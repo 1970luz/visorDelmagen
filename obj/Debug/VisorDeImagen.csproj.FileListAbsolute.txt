@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\VisorDeImagen\bin\Debug\VisorDeImagen.exe.config
+C:\Users\PC\source\repos\VisorDeImagen\bin\Debug\VisorDeImagen.exe
+C:\Users\PC\source\repos\VisorDeImagen\bin\Debug\VisorDeImagen.pdb
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.Form1.resources
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.Properties.Resources.resources
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.exe
+C:\Users\PC\source\repos\VisorDeImagen\obj\Debug\VisorDeImagen.pdb
